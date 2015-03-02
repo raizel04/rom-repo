@@ -1,1 +1,1 @@
-my new file contents
+Sample base 64 input
