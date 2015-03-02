@@ -1,1 +1,1 @@
-this is an updated file
+Sample base 64 input
